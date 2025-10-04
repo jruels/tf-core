@@ -1,6 +1,6 @@
-# Automation Developer
+# Terraform Core and Beyond
 
-This site includes the labs for the Automation Developer class.
+This site includes the labs for the Terraform Core and Beyond class.
 
 ## Labs
 [Windows VM information](VM_access.md)   
