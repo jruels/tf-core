@@ -3,7 +3,8 @@
 This site includes the labs for the Terraform Core and Beyond class.
 
 ## Labs
-[Windows VM information](VM_access.md)   
+[Group A Windows VM information](VM_Group_A.md)   
+[Group B Windows VM information](VM_Group_B.md)   
 [Lab environment details](https://docs.google.com/spreadsheets/d/1S0MXalEMPrpR-IQwGQZqIxxI0So3WsUZdxFihGUq9lQ/edit?usp=sharing)
 
 
