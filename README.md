@@ -16,3 +16,8 @@ Lab 3: [Variables and output](labs/tf-variables-and-output/index.md)
 Lab 4: [Multi resource deployment](labs/tf-more-variables/index.md)   
 Lab 5: [Terraform Cloud setup](labs/hcp-tf-setup/index.md)   
 
+
+### Day 2
+Lab 6: [Terraform Cloud VCS](labs/hcp-tf-modify/index.md)      
+Lab 7: [Publish Module](labs/hcp-tf-publish-module/index.md)      
+Lab 8: [Unit testing](labs/tf-unit-testing/index.md)      
