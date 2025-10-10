@@ -64,6 +64,8 @@ Publishing modules to the HCP Terraform private registry allows teams to reuse, 
 #### 5. Consume a Specific Module Version
 
 - In your `learn-terraform-variables` repository (which you forked and cloned in the **hcp-tf-setup** lab and have been using in the **hcp-tf-modify** lab), add a module block to your configuration to consume the published S3 bucket module:
+**NOTES**: Replace `my-bucket` with a unique domain name (e.g. jrs-bucket-20251010)
+In HCP, under registries, go to your module and then copy the source value from **usage instruction**   
   ```hcl
   module "s3_bucket" {
     source  = "app.terraform.io/<YOUR_ORG>/s3-bucket-{your-initials}/aws"
